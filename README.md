@@ -1,6 +1,6 @@
 # mfalias.github.io
 
-Personal website of **Mohamed F. Alias** — Applied AI Engineer with a dual biomedical and computer-science background, building deep-learning systems for oncology, immunology, infectious diseases, medical imaging, and clinical research.
+Personal website of **Mohamed F. Alias** — Applied AI Engineer with a dual biomedical and computer-science background, building deep-learning systems for medical research and ml application.
 
 🔗 **Live site:** https://mfalias.github.io
 
