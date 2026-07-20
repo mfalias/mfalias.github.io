@@ -47,7 +47,7 @@ I care about the parts that make models trustworthy — rigorous evaluation, dat
 
 ## Education
 
-- University of Toronto — Advanced Coursework in Machine Learning (2023)
+- University of Toronto — PhD, Medical Biophysics (withdrawn 2025)
 - New York University — M.Sc., Biology (2019)
 - University of Western Australia — B.Sc., Biomedical Science (2017)
 
